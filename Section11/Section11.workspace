@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="ArraysAndFunction" Path="ArraysAndFunction/ArraysAndFunction.project" Active="No"/>
+  <Project Name="PassbyReference" Path="PassbyReference/PassbyReference.project" Active="No"/>
+  <Project Name="ScopeSection" Path="ScopeSection/ScopeSection.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ArraysAndFunction" ConfigName="Debug"/>
+      <Project Name="PassbyReference" ConfigName="Debug"/>
+      <Project Name="ScopeSection" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ArraysAndFunction" ConfigName="Release"/>
+      <Project Name="PassbyReference" ConfigName="Release"/>
+      <Project Name="ScopeSection" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

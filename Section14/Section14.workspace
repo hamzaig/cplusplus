@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section14" Database="" Version="10000">
+  <Project Name="Mystring-start" Path="Mystring-start/Mystring-start.project" Active="No"/>
+  <Project Name="MyString_Copy_Assignment" Path="MyString_Copy_Assignment/MyString_Copy_Assignment.project" Active="No"/>
+  <Project Name="Mystring_Move_Assignment" Path="Mystring_Move_Assignment/Mystring_Move_Assignment.project" Active="No"/>
+  <Project Name="My_String_Operator_Method" Path="My_String_Operator_Method/My_String_Operator_Method.project" Active="No"/>
+  <Project Name="Mystring_Operator_Functions" Path="Mystring_Operator_Functions/Mystring_Operator_Functions.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Mystring-start" ConfigName="Debug"/>
+      <Project Name="MyString_Copy_Assignment" ConfigName="Debug"/>
+      <Project Name="Mystring_Move_Assignment" ConfigName="Debug"/>
+      <Project Name="My_String_Operator_Method" ConfigName="Debug"/>
+      <Project Name="Mystring_Operator_Functions" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Mystring-start" ConfigName="Release"/>
+      <Project Name="MyString_Copy_Assignment" ConfigName="Release"/>
+      <Project Name="Mystring_Move_Assignment" ConfigName="Release"/>
+      <Project Name="My_String_Operator_Method" ConfigName="Release"/>
+      <Project Name="Mystring_Operator_Functions" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

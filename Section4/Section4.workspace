@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section4" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+  <Project Name="Challange" Path="Challange/Challange.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeOfOperator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeOfOperator" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

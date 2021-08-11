@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section16" Database="" Version="10000">
+  <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
+  <Project Name="PureVirtualFunctions" Path="PureVirtualFunctions/PureVirtualFunctions.project" Active="No"/>
+  <Project Name="Interfaces_Start" Path="Interfaces_Start/Interfaces_Start.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="../Section15/ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="BaseClassPointers" ConfigName="Debug"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="Interfaces_Start" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="BaseClassPointers" ConfigName="Release"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="Interfaces_Start" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

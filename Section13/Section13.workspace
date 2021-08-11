@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13" Database="" Version="10000">
+  <Project Name="Objects" Path="Objects/Objects.project" Active="No"/>
+  <Project Name="AccessingClassMember" Path="AccessingClassMember/AccessingClassMember.project" Active="No"/>
+  <Project Name="ImplementingMethodsOtherFiles" Path="ImplementingMethodsOtherFiles/ImplementingMethodsOtherFiles.project" Active="No"/>
+  <Project Name="CopyConstructer" Path="CopyConstructer/CopyConstructer.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
+  <Project Name="Section13Challenge" Path="Section13Challenge/Section13Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Objects" ConfigName="Debug"/>
+      <Project Name="AccessingClassMember" ConfigName="Debug"/>
+      <Project Name="ImplementingMethodsOtherFiles" ConfigName="Debug"/>
+      <Project Name="CopyConstructer" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="Section13Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Objects" ConfigName="Release"/>
+      <Project Name="AccessingClassMember" ConfigName="Release"/>
+      <Project Name="ImplementingMethodsOtherFiles" ConfigName="Release"/>
+      <Project Name="CopyConstructer" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="Section13Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

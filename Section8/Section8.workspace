@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+  <Project Name="Challange" Path="Challange/Challange.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

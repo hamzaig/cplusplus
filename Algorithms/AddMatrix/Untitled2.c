@@ -1,0 +1,68 @@
+//int[] Add(int A[],int B[],int n)
+//{
+//    int C[n][n];
+//    for(int i=0;i<n;i++)
+//    {
+//        for(int j=0;j<n;j++)
+//        {
+//            C[i][j]=C[i][j]+C[i][j];
+//        }
+//    }
+//    return C[][];
+//}
+
+int main()
+{
+    int A[3][3]={{1,2,3},{4,5,6},{7,8,9}};
+    int B[3][3]={{1,2,3},{4,5,6},{7,8,9}};
+    int C[3][3];
+
+    for(int i=0;i<3;i++)///////////////////---------------- n+1
+    {
+        for(int j=0;j<3;j++)//////////////////-------------n*n+1
+        {
+            C[i][j]=A[i][j]+B[i][j];/////////--------------n*n
+        }
+    }
+//2n^2 + n+ 2
+
+
+
+
+//    printf("%d ",C[0][0]);
+
+    for(int i=0;i<3;i++)
+    {
+        for(int j=0;j<3;j++)
+        {
+            printf("%d ",A[i][j]);
+        }
+        printf("\n");
+    }
+
+
+    printf("\n\n");
+
+
+    for(int i=0;i<3;i++)
+    {
+        for(int j=0;j<3;j++)
+        {
+            printf("%d ",B[i][j]);
+        }
+        printf("\n");
+    }
+
+
+    printf("\n\n");
+
+
+    for(int i=0;i<3;i++)
+    {
+        for(int j=0;j<3;j++)
+        {
+            printf("%d ",C[i][j]);
+        }
+        printf("\n");
+    }
+}

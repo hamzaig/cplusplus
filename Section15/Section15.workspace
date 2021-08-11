@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section15" Database="" Version="10000">
+  <Project Name="ProtectedMemberClassAccess" Path="ProtectedMemberClassAccess/ProtectedMemberClassAccess.project" Active="No"/>
+  <Project Name="ConstructerAndDestructer" Path="ConstructerAndDestructer/ConstructerAndDestructer.project" Active="No"/>
+  <Project Name="BaseClassInitilization" Path="BaseClassInitilization/BaseClassInitilization.project" Active="No"/>
+  <Project Name="CopyConstructerAndAssignmentOperator" Path="CopyConstructerAndAssignmentOperator/CopyConstructerAndAssignmentOperator.project" Active="No"/>
+  <Project Name="RedifiningBaseClassMethods" Path="RedifiningBaseClassMethods/RedifiningBaseClassMethods.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Debug"/>
+      <Project Name="ConstructerAndDestructer" ConfigName="Debug"/>
+      <Project Name="BaseClassInitilization" ConfigName="Debug"/>
+      <Project Name="CopyConstructerAndAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="RedifiningBaseClassMethods" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Release"/>
+      <Project Name="ConstructerAndDestructer" ConfigName="Release"/>
+      <Project Name="BaseClassInitilization" ConfigName="Release"/>
+      <Project Name="CopyConstructerAndAssignmentOperator" ConfigName="Release"/>
+      <Project Name="RedifiningBaseClassMethods" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

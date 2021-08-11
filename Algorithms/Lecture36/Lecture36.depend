@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589953526 source:c:\users\aahil seemab\documents\algorithms\lecture36\untitled1.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
